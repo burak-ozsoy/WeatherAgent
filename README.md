@@ -1,5 +1,5 @@
 ---
-title: Weather Activity Agent
+title: WeatherAgent
 emoji: 🌤️
 colorFrom: blue
 colorTo: green
@@ -7,6 +7,9 @@ sdk: docker
 app_port: 8501
 pinned: false
 ---
+
+# 🌤️ Weather-Aware Activity Recommendation Agent
+## Adım Adım Kurulum ve Çalıştırma Rehberi
 
 # 🌤️ Weather-Aware Activity Recommendation Agent
 ## Adım Adım Kurulum ve Çalıştırma Rehberi
